@@ -17,7 +17,7 @@ Jadi saya mendapatkan permintaan untuk membuat kalkulator konversi suhu dari cel
 ## Penjelasan Program 
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
-  - Input antara angka 1/2/3/4, untuk menentukan konversi celcius ke dalam suhu apa
+  - Input antara angka 1/2/3/4, untuk menentukan konversi celcius ke dalam suhu fahrenheit/reamur/kelvin/ke-ketiganya
   - Perhitungan konversi otomatis sesuai inputan angka yg dimasukkan
   - Input besaran angka dalam celcius untuk dikonversikan ke suhu lain
   - Output hasil konversi suhu sesuai yang diminta user
